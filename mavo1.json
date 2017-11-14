@@ -3,9 +3,9 @@
 	"bill-period-short": "12 Aug to 13 Nov",
 	"nav-label-01": "Summary",
 	"nav-label-02": "Details",
-	"nav-label-03": "Usage",
-	"nav-label-04": "Energy Plan",
-	"nav-label-05": "Help",
+	"nav-label-03": "Meter",
+	"nav-label-04": "Usage",
+	"nav-label-05": "Energy Plan",
 	"account-summary": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/f5b595c0eb55562bda5885ba9f07adbc.png",
 	"bill-card": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/9b4a0ea685a2046f100031b5aefa6c80.png",
 	"details-hd": "How your bill adds up",
@@ -31,5 +31,6 @@
 	"plan-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/af5ac7a84f64a467ea51cb32915ac958.png",
 	"plan-tab-content-02": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/e9d4127758aa77245e21dc7f35d919d7.png",
 	"help-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/4ddd575623fae02680c0e1d4312389dd.png",
-	"meter-read": "https://cdn.rawgit.com/a138326/ucp-02-estimated/02ce2fee7b9e3c44d6164632fc7580ba310d570b/images/Group%2017.png"
+	"meter-read": "https://cdn.rawgit.com/a138326/ucp-02-estimated/02ce2fee7b9e3c44d6164632fc7580ba310d570b/images/Group%2017.png",
+	"nav-label-06": "Help"
 }
